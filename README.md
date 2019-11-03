@@ -1,9 +1,2 @@
-<p>
-<h1 align="center">
-  <br>
-  <a href="https://github.com/omarbenabdejlil/ip-tracer"><img src="https://ibb.co/D9DJfS4" ></a>
-  <br>
-
-  <br>
-</h1>
-</p>
+# ip tracer
+![iptracer](https://user-images.githubusercontent.com/42030023/68093953-a1d53000-fe9b-11e9-96ea-deed4a980c0c.png)
